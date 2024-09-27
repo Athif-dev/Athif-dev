@@ -10,7 +10,7 @@ I'm Mohammed Athif a Frontend Web Developer. I Spend most of time coding outstan
 
 💻 Most used line of code "npm start".
 
-📖 I’m currently learning MERN.
+📖 I’m currently using MERN.
 
-📧 How to reach me athif045@gmail.com.
+📧 How to reach me athifcodewiz@gmail.com.
 ⚡ Fun fact: I play games and go to the GYM very often.
